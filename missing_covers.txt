@@ -68,7 +68,6 @@ PAPX-90050  ---  B. L. U. E. - Legend of Water (Japan) (Taikenban)
 SLED-01054  ---  BMG Demos (France)
 SLPS-01448  ---  Back Guiner - Yomigaeru Yuusha Tachi - Service Disc (Japan)
 SLPM-80506  ---  Bakusou Dekotora Densetsu 2 - Otoko Jinsei Yume Ichiro (Japan) (Demo)
-SLUS-01037  ---  Baldur's Gate
 SLPM-80354  ---  Bass Landing (Japan) (Taikenban)
 SLPM-80051  ---  Bastard!! Utsuronaru Kamigami no Utsuwa (Japan) (Demo)
 SLPM-80028  ---  Battle Arena Toushinden 2 - Gyouten Kyougaku no Shishoku-ban (Japan)
